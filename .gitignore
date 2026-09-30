@@ -1,0 +1,20 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ist/
+publish/
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet packages (restored via `dotnet restore`)
+*.nupkg
+
+# Logs
+*.log

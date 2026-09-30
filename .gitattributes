@@ -1,0 +1,9 @@
+# Normalize line endings to LF in the repository
+* text=auto
+
+# Binary files (do not normalize / diff as text)
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
